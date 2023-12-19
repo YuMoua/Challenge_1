@@ -1,6 +1,6 @@
 # Challenge_1
 Bootcamp Challenge 1
-Source Code from: https://github.com/coding-boot-camp/urban-octo-telegram.git
+Starter Code from: https://github.com/coding-boot-camp/urban-octo-telegram.git
 
 fixed the header navigator for "search engine optimization" button
 
